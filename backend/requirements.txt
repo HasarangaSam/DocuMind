@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# Document processing
+pymupdf
+
+# RAG
+langchain
+langchain-text-splitters
+sentence-transformers
+chromadb
+
+# LLM
+groq
